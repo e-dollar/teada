@@ -19,4 +19,8 @@
     "url": "https://github.com/e-dollar/teada/issues"
   },
   "homepage": "https://github.com/e-dollar/teada#readme"
+   
+}
+  "publishConfig": {
+  "@e-dollar:registry": "https://npm.pkg.github.com"
 }
