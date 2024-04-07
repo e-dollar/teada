@@ -1,0 +1,22 @@
+{
+  "name": "@e-dollar/teada",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-dollar/teada.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "e-dollar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-dollar/teada/issues"
+  },
+  "homepage": "https://github.com/e-dollar/teada#readme"
+}
